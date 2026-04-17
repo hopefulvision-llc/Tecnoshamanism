@@ -1,3 +1,46 @@
+# Tecnoshamanism
+
+> **Layer:** Prototype / Foundation  
+> **Status:** Experimental Branch  
+> **Audience:** Experimental builders, spiritual technologists, researchers, symbolic system explorers  
+> **Related:** `technomysticism`, `shamanism`, `vibesculpting-tool`, `nousonet`
+
+## What this repo is
+Tecnoshamanism is an experimental branch exploring the intersection of shamanic sensibility, symbolic practice, and technological form. It appears to investigate how ritual, altered perspective, vision-oriented processes, and spiritual or mythic interfaces might be expressed through digital tools or conceptual prototypes.
+
+This repo lives at the edge of spiritual imagination and experimental technology.
+
+## Why it exists
+Some experiences, practices, and modes of knowing do not fit neatly into technical, political, or philosophical repositories. Tecnoshamanism exists to explore a more visionary and practice-oriented edge of the ecosystem, where symbolic, ritual, and consciousness-expanding ideas can become experiments rather than remain purely abstract.
+
+It creates room for the strange without forcing it to justify itself prematurely.
+
+## What Tecnoshamanism is not
+Tecnoshamanism is **not**:
+- the broader philosophical bridge between spirit and technology, which belongs to `technomysticism`
+- the more general worldview branch represented by `shamanism`
+- a polished product or fully stabilized doctrine
+
+Tecnoshamanism is the **experimental ritual-tech branch**.
+
+## How it fits the ecosystem
+This repo connects most directly to:
+- `technomysticism`, which offers broader philosophical grounding
+- `shamanism`, which may hold a more general or canonical worldview layer
+- `vibesculpting-tool`, which shares an experiential and expressive orientation
+- `nousonet`, if these ideas become embodied, spatial, or place-based experiences
+
+## Start here
+- `README.md`
+- `Tecnoshamanism_Master_Index.md`
+- `vision_quest.py`
+
+## Current maturity
+- experimental branch
+- ritual-tech exploration
+- early symbolic prototype work
+
+
 # Digital Shamanism: Consciousness Co-Creation Through Code
 ## A HopefulVision LLC Sacred Technology Framework
 
